@@ -1,4 +1,4 @@
-import React,{useState} from 'react';
+import React, { useState } from 'react';
 import Categories from '../Data/Categories';
 
 export const Opening = ({ getQuestion }) => {
@@ -26,7 +26,7 @@ export const Opening = ({ getQuestion }) => {
           ))}
         </select>
 
-        <select  name="Difficulty" defaultValue={'DEFAULT'} className="select-box" onChange={(e) => setDifficulty(e.target.value)} >
+        <select name="Difficulty" defaultValue={'DEFAULT'} className="select-box" onChange={(e) => setDifficulty(e.target.value)} >
           <option value="DEFAULT" disabled>Select Difficulty</option>
           <option value="easy">Easy</option>
           <option value="medium">Medium</option>
