@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+> # Quiz App
+###What is Quiz App?
+A quiz is a form of game or mind sport in which players attempt to answer questions correctly about a certain or variety of subjects. Quiz App can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
